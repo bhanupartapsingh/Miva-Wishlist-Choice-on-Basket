@@ -1,4 +1,4 @@
-# Miva-Wishlist-Choice-on-Basket
+# Miva Wishlist Choice on Basket
 This Snippet is used to select or create wishlist on basket page and will move items to wishlist
 Step 1: Add below script to basket page
 <script>
